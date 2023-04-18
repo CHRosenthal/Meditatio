@@ -1,6 +1,7 @@
 '''
 Systems bio - bacterial warfare
 Author: C.H. Rosenthal
+Note that commented section takes hours to implement !!!
 '''
 
 import numpy as np
